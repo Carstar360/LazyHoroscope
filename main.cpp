@@ -20,10 +20,10 @@ int main()
   cout<<"What is your last name?: "<<endl;
   cin>>last;
 
-  cout<<"Welcome "<<first.at(0)<<"."<<last.at(0)<<"., here is your fortune..."<<endl;
+  cout<<"Welcome, "<<first.at(0)<<"."<<last.at(0)<<"., here is your fortune..."<<endl;
 
   //tell fortune
-  cout<<"Your lucky number is "<<first.length()<<endl;
+  cout<<"your lucky number is "<<first.length()<<endl;
 
   return 0;
 }
