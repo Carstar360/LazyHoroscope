@@ -9,6 +9,7 @@ int main()
   //declare variables
    string first = " ";
    string last = " ";
+   int lucky;
    
    cout<<first.at(0)<<endl;
    cout<<last.at(0)<<endl;
@@ -22,6 +23,7 @@ int main()
   cout<<"Welcome "<<first.at(0)<<"."<<last.at(0)<<"., here is your fortune..."<<endl;
 
   //tell fortune
+  cout<<"Your lucky number is "<<first.length()<<endl;
 
   return 0;
 }
