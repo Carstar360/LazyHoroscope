@@ -13,9 +13,9 @@ int main()
    
    
   //get user inpu
-  cout<<"What is your first name? "<<endl;
+  cout<<"What is your first name?"<<endl;
   cin>>first;
-  cout<<"What is your last name? "<<endl;
+  cout<<"What is your last name?"<<endl;
   cin>>last;
   cout<<"\n\n";
 
