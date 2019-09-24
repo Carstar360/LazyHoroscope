@@ -17,7 +17,8 @@ int main()
   cin>>first;
   cout<<"What is your last name?"<<endl;
   cin>>last;
-  cout<<"\n\n";
+  cout<<"-------------------------------------------------"<<endl;
+  cout<<"-------------------------------------------------"<<endl;
 
   cout<<"Welcome, "<<first.at(0)<<"."<<last.at(0)<<"., here is your fortune..."<<endl;
 
