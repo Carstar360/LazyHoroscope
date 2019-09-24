@@ -11,8 +11,8 @@ int main()
    string last = " ";
    int lucky;
    
-   cout<<first.at(0)<<endl;
-   cout<<last.at(0)<<endl;
+   
+   
 
   //get user inpu
   cout<<"What is your first name? "<<endl;
