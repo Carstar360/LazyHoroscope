@@ -15,10 +15,11 @@ int main()
    cout<<last.at(0)<<endl;
 
   //get user inpu
-  cout<<"What is your first name?: "<<endl;
+  cout<<"What is your first name? "<<endl;
   cin>>first;
-  cout<<"What is your last name?: "<<endl;
+  cout<<"What is your last name? "<<endl;
   cin>>last;
+  cout<<"\n\n";
 
   cout<<"Welcome, "<<first.at(0)<<"."<<last.at(0)<<"., here is your fortune..."<<endl;
 
