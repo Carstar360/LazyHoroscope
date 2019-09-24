@@ -12,8 +12,6 @@ int main()
    int lucky;
    
    
-   
-
   //get user inpu
   cout<<"What is your first name? "<<endl;
   cin>>first;
