@@ -17,10 +17,11 @@ int main()
   cin>>first;
   cout<<"What is your last name?"<<endl;
   cin>>last;
-  cout<<"-------------------------------------------------------------------------";
-  cout<<"-------"<<endl;
-  cout<<"-------------------------------------------------------------------------";
-  cout<<"-------"<<endl;
+  cout<<"\n\n";
+  
+  
+  
+  
 
   cout<<"Welcome, "<<first.at(0)<<"."<<last.at(0)<<"., here is your fortune..."<<endl;
 
