@@ -51,9 +51,9 @@ int main()
      cout<<"you have already met your true love."<<endl;
   }
   
-  else
-  {
+  
+  
   cout<<"have a good day!"<<endl;
-  }
+  
   return 0;
 }
